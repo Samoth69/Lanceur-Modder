@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanceur modder", "Lanceur modder\Lanceur modder.csproj", "{A16F5FF5-B51E-447D-806F-0F2B8F166A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16F5FF5-B51E-447D-806F-0F2B8F166A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16F5FF5-B51E-447D-806F-0F2B8F166A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16F5FF5-B51E-447D-806F-0F2B8F166A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16F5FF5-B51E-447D-806F-0F2B8F166A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1686C8DD-9A20-4188-92DC-B4BF42D91FF9}
+	EndGlobalSection
+EndGlobal
