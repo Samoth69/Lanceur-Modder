@@ -29,6 +29,7 @@ public partial class MainWindow : Window
         [DllImport("wininet.dll")]
         private extern static bool InternetGetConnectedState(out int description, int reservedValue);
 
+        //renvoie vrai si l'ordinateur à accès à internet
         public static bool IsInternetAvailable()
         {
             int description;
